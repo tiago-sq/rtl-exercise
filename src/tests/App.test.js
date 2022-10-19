@@ -25,11 +25,11 @@ describe('Testes da aplicação', () => {
   //Neste teste você deseja validar a existência dos botões 'Par' ou 'Ìmpar'.
 
   test.todo('5 - Conferir se o jogo retorna a mensagem "Acertou" ao clicar na opção correta.');
-  //Neste teste você irá querer utilizar um mock para a função que gera o número.
+  //Talvez você prefira controlar as possibilidades neste teste.
 
   test.todo('6 - Conferir se o jogo retorna a mensagem "Errou" ao clicar na opção incorreta.');
-  //Neste teste você irá querer utilizar um mock para a função que gera o número.
+  //Talvez você prefira controlar as possibilidades neste teste.
 
   test.todo('7 - Conferir se um número é gerado na tela do jogo.');
-  //Neste teste você irá querer utilizar um mock para a função que gera o número.
+  //Talvez você prefira controlar as possibilidades neste teste.
 });
